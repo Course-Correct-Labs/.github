@@ -63,11 +63,11 @@ All projects: **MIT License**
 
 ---
 
-## 📞 Contact
-
-**Bentley DeVilling**
-Email: BentleyDeVilling@gmail.com
-GitHub: [@BentleyRolling](https://github.com/BentleyRolling)
+## Maintained by
+**Bentley DeVilling** — Course Correct Labs
+Boulder Creek, CA
+coursecorrectlabs.com
+Bentley@CourseCorrectLabs.com
 
 ---
 
